@@ -72,9 +72,9 @@ strong {
   text-transform: none;
 }
 
-/* .left {
-  padding-top: 20px;
-} */
+.top-right {
+  padding-top: 0;
+}
 
 .left img {
   padding-top: 30px;
